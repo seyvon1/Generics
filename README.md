@@ -40,6 +40,10 @@
 
 ![image](https://user-images.githubusercontent.com/61108556/151491989-9bd6b51d-426f-4d72-a05a-4a138a3bbd8e.png)
 
+Легко убедиться, что в Вашем удалённом репозитории были добавлены все созданные файлы
+
+![image](https://user-images.githubusercontent.com/61108556/151492144-6b90a00b-b373-4d3d-8b01-71d512745088.png)
+
   Вам предстоит поработать с коллекциями через форму wpf или windowsforms.
 Задание расположено в файле на странице 47 - странице 67.
 [Работа с коллекция.pdf](https://github.com/VSTC21CAB/Generics/files/7955799/4cf3ad7d6ae3c54ce2f48e66bae79507.pdf)
