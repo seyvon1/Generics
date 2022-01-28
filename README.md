@@ -13,6 +13,8 @@
 
 ![image](https://user-images.githubusercontent.com/61108556/151491282-b0b32556-2f06-47cf-bdd2-eeb61f5f51ac.png)
 
+![image](https://user-images.githubusercontent.com/61108556/151491384-a7aa87b9-2a8e-4f74-98a6-3793c074afb5.png)
+
   Вам предстоит поработать с коллекциями через форму wpf или windowsforms.
 Задание расположено в файле на странице 47 - странице 67.
 [Работа с коллекция.pdf](https://github.com/VSTC21CAB/Generics/files/7955799/4cf3ad7d6ae3c54ce2f48e66bae79507.pdf)
