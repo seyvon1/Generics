@@ -5,6 +5,9 @@
 Для этого в правом верхнем углу нажмите кнопку Fork
 ![image](https://user-images.githubusercontent.com/61108556/151491104-76f0ca09-bb0f-45b9-b76a-375119934261.png)
 
+И далее выберите свой профиль гитхаб ![image](https://user-images.githubusercontent.com/61108556/151491157-d8efae5d-9528-410a-bddf-f453ba85d084.png)
+
+
 Назовите свой репозиторий как "LR_17"
 
   Вам предстоит поработать с коллекциями через форму wpf или windowsforms.
