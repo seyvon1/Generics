@@ -15,10 +15,37 @@
 
 ![image](https://user-images.githubusercontent.com/61108556/151491384-a7aa87b9-2a8e-4f74-98a6-3793c074afb5.png)
 
+После этого у Вас появится окно следующего вида
+
+![image](https://user-images.githubusercontent.com/61108556/151491441-803482d9-a648-4a8a-a67f-eb20fe5220c4.png)
+
+Создайте новый проект 
+
+![image](https://user-images.githubusercontent.com/61108556/151491473-b613bffe-8548-4682-9fe4-680e635cf4ca.png)
+
+![image](https://user-images.githubusercontent.com/61108556/151491502-ae418958-83be-4278-aa3d-0fd629491dc7.png)
+
+Убедитесь что создаёте проект в том каталоге, в который клонировали репозиторий 
+
+![image](https://user-images.githubusercontent.com/61108556/151491707-de9a35cc-a2ae-487c-ac4c-7a76725bb1f3.png)
+
+Если удалось все пункты проделать успешно, Вы увидете что создали проект WindowsForms и все ваши изменения могут быть зафиксированы в вашем удалённом репозитории
+(Легко понять, если видны зелёные значки "+" напротив ваших файлов в обозревателе решений
+
+![image](https://user-images.githubusercontent.com/61108556/151491890-5a62585d-3172-448a-9076-d5968abe859b.png)
+
+
+Необходимо зафиксировать все изменения локально и после этого отправить их в удалённый репозиторий
+![image](https://user-images.githubusercontent.com/61108556/151491955-11238db2-996f-40f9-bc1d-abb07f99898e.png)
+
+![image](https://user-images.githubusercontent.com/61108556/151491989-9bd6b51d-426f-4d72-a05a-4a138a3bbd8e.png)
+
   Вам предстоит поработать с коллекциями через форму wpf или windowsforms.
 Задание расположено в файле на странице 47 - странице 67.
 [Работа с коллекция.pdf](https://github.com/VSTC21CAB/Generics/files/7955799/4cf3ad7d6ae3c54ce2f48e66bae79507.pdf)
 
+
+##Если захотите поработать с формами **WPF**
   Если начинаете создавать форму с помощью wpf, то можете воспользоваться репозиторием по ссылке [Generics_wpf](https://github.com/Sand-by/KPYP_LECTION)
 ![image](https://user-images.githubusercontent.com/61108556/151490220-9413723b-8a4e-4bbd-b927-53f1dba7a4c1.png)
 
